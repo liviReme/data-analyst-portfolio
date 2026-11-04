@@ -1,5 +1,4 @@
-# data-analyst-portfolio
-A collection of my data analytics projects featuring SQL, Python, and Tableau.
+
 # Pamela E. Reyes | Data Analyst Portfolio
 
 A collection of my data analytics projects. I am building this portfolio as I learn, focusing on turning raw data into clear, well-documented insights.
