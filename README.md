@@ -4,15 +4,14 @@ A collection of my data analytics projects. I am building this portfolio as I le
 
 ## Projects
 
-| Project | Question | Tools |
-|---|---|---|
-| [Prosperity Gap in Venezuela (1981-2006) vs. Latin America](venezuela-prosperity-gap/) | How did Venezuela's prosperity gap evolve, and how does it compare with the rest of Latin America? | Python, pandas, matplotlib, Jupyter |
+| Project | Question | Tools | Links |
+|---|---|---|---|
+| [Prosperity Gap in Venezuela (1981-2006) vs. Latin America](venezuela-prosperity-gap/) | How did Venezuela's prosperity gap evolve, and how does it compare with the rest of Latin America? | Python, pandas, matplotlib, SQL (SQLite), Tableau Public | [Code](venezuela-prosperity-gap/) · [Dashboard](https://public.tableau.com/app/profile/pamela.reyes5086/viz/Libro1_17942712345210/Dashboard1) |
 
 ## Coming next
 
-- SQL queries for the Venezuela project
-- An interactive dashboard in Tableau
+- More projects with new datasets
 
 ## Contact
 
-[GitHub](https://github.com/LiviReme)
+[GitHub](https://github.com/liviReme)
